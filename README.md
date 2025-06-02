@@ -52,7 +52,7 @@ El endpoint principal de la aplicación se encuentra en:
 - director_2
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maxisandoval37/NextFix-WebApp/refs/heads/main/src/main/resources/static/demo.gif" />
+  <img src="https://raw.githubusercontent.com/gianca307/nextfix-webapp-eit/refs/heads/main/src/main/resources/static/demo.gif" />
 </p>
 
 ## Online Report Result Tests
