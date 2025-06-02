@@ -3,7 +3,7 @@
 Este proyecto es una aplicación web Java desarrollada con el framework **Spring Boot**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maxisandoval37/NextFix-WebApp/refs/heads/main/src/main/resources/static/diagrama.png" />
+  <img src="https://raw.githubusercontent.com/gianca307/nextfix-webapp-eit/refs/heads/main/src/main/resources/static/diagrama.png" />
 </p>
 
 ## Tecnologías Utilizadas
@@ -67,5 +67,5 @@ Para cualquier información adicional o consultas: <gianca307@gmail.com>
 <p align="center"><b>¡Muchas gracias! 🦔</b></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maxisandoval37/NextFix-WebApp/refs/heads/main/src/main/resources/static/0.png" />
+  <img src="https://raw.githubusercontent.com/gianca307/nextfix-webapp-eit/refs/heads/main/src/main/resources/static/0.png" />
 </p>
