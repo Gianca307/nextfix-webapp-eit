@@ -1,0 +1,5 @@
+# Created at 2025-06-02T13:17:12.771
+Boot Manifest-JAR contains absolute paths in classpath 'G:\gianca\Trabajos\Desarrollo Web\nextfix-webapp-eit\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
